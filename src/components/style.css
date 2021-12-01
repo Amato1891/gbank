@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(27, 27, 27);
+}
+a img{
+    width: 25px;
+    height: 25px;
+}
+
+#login-link{
+    color: white;
+}
+
+#login-link:hover{
+    color: red;
+}
+.navbar a:hover {
+    font-size: 1.2em;
+    font-weight: bold;
+    font-style: italic;
+}
+#create-account-link{
+    color: white;
+}
+
+
+#create-account-link:hover{
+    color: red;
+}
+
+#error-msg{
+    color: red;
+}
+
+#transaction-history{
+    left: 500px;
+    top: 80%;
+    position: relative;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: red;
+}
+
+
+#create-account-tooltip{
+    position: relative;
+    display: inline-block;
+}
+
+#tooltip #tooltiptext {
+    visibility: hidden;
+    font-size: 0.6em;
+    width: 60px;
+    background-color: rgb(27, 27, 27);
+    color: red;
+    text-align: center;
+    border-radius: 8px;
+    padding: 5px 0px;
+    position: absolute;
+    z-index: 1;
+    transition-delay: 0.3s;
+  }
+
+  #tooltip:hover #tooltiptext {
+    visibility: visible;
+  }
