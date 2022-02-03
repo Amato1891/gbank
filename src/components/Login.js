@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from './Card';
-import { UserContext, LoginAuth, Transactions } from './Index';
+import { UserContext, LoginAuth, Transactions } from '../App';
 import "./style.css"
 
 function Login(){

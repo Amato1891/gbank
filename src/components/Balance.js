@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from './Card';
-import { LoginAuth } from './Index';
+import { LoginAuth } from '../App';
 import "./style.css"
 
 function Balance(){

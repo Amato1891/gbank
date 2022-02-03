@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from './Card';
-import { LoginAuth, Transactions } from './Index';
+import { LoginAuth, Transactions } from '../App';
 
 function Deposit() {
     const auth = React.useContext(LoginAuth);
