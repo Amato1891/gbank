@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/84348911/152458544-049c1796-fdcc-4741-9302-ab66542c2a21.png" width="600" height="500">
+
 # Banking Application:
 
 This is a single page Banking Application made with Create React App. This is the final project from the front end React section of my course.
