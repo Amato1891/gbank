@@ -2,7 +2,7 @@
 
 This is a single page Banking Application made with Create React App. This is the final project from the front end React section of my course.
 
-# Usage:
+# Features:
 
 The account information for this application is saved locally in an array and if the page is refreshed all data will be lost.
 
@@ -14,7 +14,7 @@ In this application you can:
 <li>Check your balance
 
  # Installation Guidelines: 
-  Fork this repo and type "npm start" in the command line in the folders directory to launch this application
+  Fork this repo and type "npm start" in the command line in the folders directory to launch this application or you can visit the hosted application <a href="http://jim-amato-bankingapplication.s3-website-us-east-1.amazonaws.com/">here</a>
   
  # Technologies:
   This application was built using 
