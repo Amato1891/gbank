@@ -17,7 +17,10 @@ In this application you can:
   Fork this repo and type "npm start" in the command line in the folders directory to launch this application
   
  # Technologies:
-  This application was built using the React framework
+  This application was built using 
+ <li>React framework
+ <li>Bootstrap framework
+ <li>React Router
   
  # License:
   Copyright 2022 Jim Amato
